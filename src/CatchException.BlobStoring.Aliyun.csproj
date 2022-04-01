@@ -11,7 +11,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\CatchException.BlobStoring\CatchException.BlobStoring.csproj" />
+    <ProjectReference Include="..\..\CatchException.BlobStoring\src\CatchException.BlobStoring.csproj" />
   </ItemGroup>
 
 </Project>
